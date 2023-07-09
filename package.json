@@ -1,6 +1,6 @@
 {
   "name": "coolgame-cc-sys-time",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A coolgame-cc time system.",
   "main": "dist/coolgame-cc-sys-time.mjs",
   "types": "dist/coolgame-cc-sys-time.d.ts",
@@ -24,7 +24,7 @@
   "author": "bakabird",
   "license": "MIT",
   "dependencies": {
-    "gnfun": "^0.0.6"
+    "gnfun": "^0.0.7"
   },
   "devDependencies": {
     "@types/node": "^20.4.1",
