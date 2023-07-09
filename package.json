@@ -1,7 +1,7 @@
 {
   "name": "coolgame-cc-sys-time",
   "version": "0.0.1",
-  "description": "A coolgame-cc system for time.",
+  "description": "A coolgame-cc time system.",
   "main": "dist/coolgame-cc-sys-time.mjs",
   "types": "dist/coolgame-cc-sys-time.d.ts",
   "repository": {
